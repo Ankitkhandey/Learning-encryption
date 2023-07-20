@@ -45,7 +45,7 @@ public class AESGCMEncryption {
         String decryptedText = decrypt(cipherText);
         System.out.println("Plain text: " + plainText);
         System.out.println("Cipher text: " + cipherText);
-        System.out.println("Decrypted text: " + decryptedText);
+        System.out.println("Decrypted text by utkarsh: " + decryptedText);
     }
 
 }
